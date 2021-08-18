@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "Do you want to install php ?"
+echo "Do you want to install php ? yes or no"
 read  x
-if [[ "${x}" = "y" ]]
+if [[ "${x}" = "yes" ]]
 then
 read -p  "Enter PHP Version  : " version
 echo 
