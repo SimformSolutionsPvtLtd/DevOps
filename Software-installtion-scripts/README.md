@@ -1,1 +1,1 @@
-We can use above script for common packages installtion
+We can use above script for common packages installtions
